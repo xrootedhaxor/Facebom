@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 ######################
-# SCRIPT : Facebom
+# SCRIPT : FaceLegion
 #    JOB : Brute Force Attack On Facebook Accounts
-#Codedby : Oseid Aldary
+#Codedby : TheShahriarSir
 ######################
 ##--------------------- Import Libraries --------------------##
 import socket,time,os,optparse,random,re
@@ -210,7 +210,7 @@ def FBOM(username, wordlist, proxy=None,passwd=None):
     exit(1)
 
 parse = optparse.OptionParser(wi+"""
-Usage: python ./facebom.py [OPTIONS...]
+Facebook Hack Tool by Team Legion
 -------------
 OPTIONS:
        |
@@ -285,6 +285,6 @@ if __name__=='__main__':
 #####################   END OF TOOL  #########################
 #####################                #########################
 ##############################################################
-#This Tool by Oseid Aldary
+#This Tool by TheShahriarSir
 #Have a nice day :)
 #GoodBye
